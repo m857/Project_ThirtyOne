@@ -6,24 +6,24 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="poto/logo.jpeg" class="d-block w-100" alt="..." >
+      <img src="poto/bg2.png" class="d-block w-100" alt="..." >
       <div class="carousel-caption d-none d-md-block">
         <h5>Sangat Banyak Sekali diskon untuk hari ini</h5>
         <p>Dengan menggunakan kode Azmiitamvan</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="poto/homemn.jpg" class="d-block w-100" alt="...">
+      <img src="poto/homeman.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>For Man</h5>
         <button class="btn btn-outline-light my-2 my-sm-0" type="submit" name="man">MAN</button>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="poto/homewmn.jpg" class="d-block w-100" alt="...">
+      <img src="poto/homewmn.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>For WOMAN</h5>
-        <button class="btn btn-outline-dark my-2 my-sm-0" type="submit" name="woman">WOMAN</button>
+        <button class="btn btn-outline-light my-2 my-sm-0" type="submit" name="woman">WOMAN</button>
       </div>
     </div>
   </div>
@@ -36,3 +36,4 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+<br><br><br><br><br><br><br><br><br><br><br>

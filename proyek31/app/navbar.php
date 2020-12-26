@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainnav">
   <div class="container">
       <a class="navbar-brand" href="#">
-      <img src= "poto/logo.png" width="50px" height="30px" class="d-inline-block align-top" alt="" loading="lazy">
+      <img src= "poto/logo.png" width="90px" height="30px" class="d-inline-block align-top" alt="" loading="lazy" style="font-weight: bold;" >
           Thirty One
       </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

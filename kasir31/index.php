@@ -12,7 +12,7 @@
 		if($_GET['pesan']=="gagal"){
 			echo "<div class='alert'>Username dan Password tidak sesuai !</div>";
 		}
-	}
+	}	
 	?>
  
 	<div class="kotak_login">
@@ -29,9 +29,6 @@
  
 			<br/>
 			<br/>
-			<center>
-				<a class="link" href="https://www.malasngoding.com">kembali</a>
-			</center>
 		</form>
 		
 	</div>
